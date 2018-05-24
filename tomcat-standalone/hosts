@@ -1,0 +1,4 @@
+172.16.16.209 ansible_ssh_pass=64^5377 ansible_ssh_user=root
+
+[tomcat-servers]
+172.16.16.209
